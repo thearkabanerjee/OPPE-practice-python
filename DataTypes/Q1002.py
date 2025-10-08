@@ -15,4 +15,5 @@ def swap_except_middle_three(s: str) -> str:
         str: The modified string with the parts swapped.
     """
 
-    
+
+# need to learn 
